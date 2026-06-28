@@ -1,0 +1,41 @@
+id_promocion;nombre;tipo;descuento_pct;fecha_inicio;fecha_fin
+1;Semana del Ahorro 29;Cliente Frecuente;0.15;2024-09-29;2024-10-05
+2;Navidad Saludable 80;2x1;0.1;2024-09-03;2024-09-09
+3;Regreso a Clases 8;Liquidación;0.3;2025-05-09;2025-05-17
+4;Día de la Madre 81;Descuento Directo;0.15;2025-08-22;2025-09-15
+5;Verano Saludable 93;Descuento por Categoría;0.3;2024-05-16;2024-06-01
+6;Regreso a Clases 36;Liquidación;0.25;2024-09-11;2024-09-25
+7;Navidad Saludable 88;2x1;0.1;2024-11-17;2024-11-29
+8;Verano Saludable 27;2x1;0.05;2025-10-14;2025-10-21
+9;Regreso a Clases 9;Liquidación;0.3;2024-09-03;2024-10-01
+10;Quincena Bienestar 1;2x1;0.05;2025-02-07;2025-02-18
+11;Semana del Ahorro 91;Liquidación;0.1;2024-01-17;2024-02-04
+12;Fiestas Patrias 93;Descuento por Categoría;0.2;2024-03-31;2024-04-25
+13;Fiestas Patrias 65;Descuento por Categoría;0.1;2024-02-27;2024-03-03
+14;Fiestas Patrias 87;Descuento por Categoría;0.1;2024-02-10;2024-02-25
+15;Navidad Saludable 65;Descuento Directo;0.05;2024-12-19;2025-01-14
+16;Black Friday Salud 93;Liquidación;0.2;2024-09-12;2024-09-21
+17;Aniversario Botica 51;2x1;0.25;2025-08-10;2025-08-17
+18;Semana del Ahorro 19;Descuento por Categoría;0.25;2024-10-29;2024-11-09
+19;Aniversario Botica 5;Descuento por Categoría;0.25;2024-05-11;2024-05-29
+20;Fiestas Patrias 15;Descuento por Categoría;0.1;2024-04-18;2024-05-12
+21;Aniversario Botica 41;Liquidación;0.15;2025-09-06;2025-09-26
+22;Black Friday Salud 91;Cliente Frecuente;0.2;2025-02-24;2025-03-15
+23;Semana del Ahorro 24;Descuento Directo;0.15;2024-07-07;2024-07-19
+24;Quincena Bienestar 93;Cliente Frecuente;0.1;2024-10-16;2024-10-24
+25;Campaña Salud 87;Descuento Directo;0.25;2025-09-19;2025-10-17
+26;Navidad Saludable 95;Liquidación;0.3;2025-11-11;2025-12-06
+27;Black Friday Salud 60;Descuento Directo;0.3;2024-12-22;2025-01-01
+28;Regreso a Clases 40;Descuento Directo;0.3;2024-11-12;2024-12-07
+29;Semana del Ahorro 51;Cliente Frecuente;0.3;2024-02-07;2024-02-26
+30;Fiestas Patrias 41;2x1;0.25;2024-12-08;2024-12-25
+31;Quincena Bienestar 30;Descuento por Categoría;0.3;2025-06-20;2025-06-29
+32;Semana del Ahorro 78;2x1;0.05;2025-01-13;2025-02-02
+33;Día de la Madre 16;Cliente Frecuente;0.3;2024-11-05;2024-11-30
+34;Aniversario Botica 16;Liquidación;0.15;2024-07-20;2024-08-16
+35;Quincena Bienestar 9;2x1;0.05;2025-04-24;2025-05-09
+36;Verano Saludable 17;Descuento por Categoría;0.2;2025-03-11;2025-03-31
+37;Navidad Saludable 65;Descuento Directo;0.05;2024-03-21;2024-04-13
+38;Aniversario Botica 66;Descuento Directo;0.15;2024-01-01;2024-01-11
+39;Día de la Madre 57;Descuento por Categoría;0.05;2025-11-11;2025-11-17
+40;Black Friday Salud 13;Liquidación;0.3;2024-12-05;2024-12-15
