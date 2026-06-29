@@ -1,0 +1,16 @@
+id_tienda;nombre;canal;region;ciudad
+1;Botica Salud Total - Lima 1;fisico;Lima Metropolitana;Lima
+2;Botica Salud Total - Lima 2;fisico;Lima Metropolitana;Lima
+3;Botica Salud Total - Lima 3;fisico;Lima Metropolitana;Lima
+4;Botica Salud Total - Lima 4;fisico;Lima Metropolitana;Lima
+5;Botica Salud Total - Lima 5;fisico;Lima Metropolitana;Lima
+6;Botica Salud Total - Trujillo 6;fisico;Norte;Trujillo
+7;Botica Salud Total - Chiclayo 7;fisico;Norte;Chiclayo
+8;Botica Salud Total - Piura 8;fisico;Norte;Piura
+9;Botica Salud Total - Arequipa 9;fisico;Sur;Arequipa
+10;Botica Salud Total - Tacna 10;fisico;Sur;Tacna
+11;Botica Salud Total - Ica 11;fisico;Sur;Ica
+12;Botica Salud Total - Huancayo 12;fisico;Centro;Huancayo
+13;Botica Salud Total - Iquitos 13;fisico;Oriente;Iquitos
+14;Botica Salud Total - Pucallpa 14;fisico;Oriente;Pucallpa
+15;Botica Salud Total - Tienda Online;online;Online;Lima
