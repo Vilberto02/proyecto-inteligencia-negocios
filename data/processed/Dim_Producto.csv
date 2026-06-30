@@ -4,25 +4,25 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 3;Limpiador Facial Espumoso;Dermocosmética;Antiedad;BienestarLab;89.85;61.37
 4;Colágeno Hidrolizado;Suplementos y Vitaminas;Proteínas y Aminoácidos;BioSana;25.46;16.42
 5;Pañales Talla G x26;Cuidado del Bebé;Accesorios Bebé;PharmaPlus;8.54;5.92
-6;Nebulizador Portátil;Equipos Médicos;Nebulizadores;CardioSalud;35.4;14.44
+6;nebulizador portátil;Equipos Médicos;Nebulizadores;CardioSalud;35.4;14.44
 7;Vendas Elásticas;Insumos Médicos;Alcohol y Antisépticos;NovaSalud;16.53;6.7
 8;Amoxicilina 500mg;Medicamentos;Analgésicos;VitalCare;37.63;24.42
 9;Jabón en Barra Glicerina;Cuidado Personal;Higiene Femenina;FarmaVida;37.92;20.14
 10;Contorno de Ojos;Dermocosmética;Cuidado Facial;CardioSalud;26.23;12.98
 11;Proteína Whey Vainilla;Suplementos y Vitaminas;Omega 3;BienestarLab;12.92;5.52
 12;Pañales Talla G x26;Cuidado del Bebé;Accesorios Bebé;BienestarLab;66.16;37.87
-13;Tensiómetro Digital de Brazo;Equipos Médicos;Tensiómetros;FarmaVida;81.0;33.14
+13;TENSIÓMETRO DIGITAL DE BRAZO;Equipos Médicos;Tensiómetros;FarmaVida;81.0;33.14
 14;Alcohol Medicinal 70° 250ml;Insumos Médicos;Guantes;BioSana;17.02;7.18
 15;Atorvastatina 20mg;Medicamentos;Cardiovascular;BienestarLab;35.52;19.31
 16;Protectores Diarios;Cuidado Personal;Higiene Bucal;VitalCare;17.99;11.13
-17;Limpiador Facial Espumoso;Dermocosmética;Protección Solar;CardioSalud;126.0;65.25
+17;Limpiador Facial Espumoso;Sin Categoría;Protección Solar;CardioSalud;126.0;65.25
 18;Zinc 50mg;Suplementos y Vitaminas;Multivitamínicos;MediFarma;11.33;6.49
 19;Fórmula Infantil Etapa 1;Cuidado del Bebé;Pañales;BienestarLab;8.43;3.84
-20;Nebulizador Portátil;Equipos Médicos;Termómetros;NovaSalud;274.52;186.07
-21;Guantes de Látex x100;Insumos Médicos;Alcohol y Antisépticos;DermaPro;36.77;16.36
+20;nebulizador portátil;Equipos Médicos;Termómetros;NovaSalud;274.52;186.07
+21;Guantes de Látex x100;Sin Categoría;Alcohol y Antisépticos;DermaPro;36.77;16.36
 22;Ibuprofeno 400mg;Medicamentos;Gastrointestinales;MediFarma;6.62;4.02
-23;Enjuague Bucal Menta;Cuidado Personal;Desodorantes;NovaSalud;25.29;15.62
-24;Protector Solar SPF50;Dermocosmética;Cuidado Capilar;NovaSalud;28.75;13.97
+23;enjuague bucal menta;Cuidado Personal;Desodorantes;NovaSalud;25.29;15.62
+24;PROTECTOR SOLAR SPF50;Dermocosmética;Cuidado Capilar;NovaSalud;28.75;13.97
 25;Calcio + Vitamina D;Suplementos y Vitaminas;Multivitamínicos;CardioSalud;30.06;18.73
 26;Pañales Talla M x30;Cuidado del Bebé;Fórmulas Infantiles;CardioSalud;9.96;6.65
 27;Termómetro Digital;Equipos Médicos;Nebulizadores;FarmaVida;205.88;101.16
@@ -33,111 +33,111 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 32;Proteína Whey Vainilla;Suplementos y Vitaminas;Multivitamínicos;MediFarma;33.13;16.75
 33;Fórmula Infantil Etapa 1;Cuidado del Bebé;Pañales;DermaPro;31.47;20.47
 34;Termómetro Digital;Equipos Médicos;Nebulizadores;VitalCare;248.5;153.87
-35;Algodón 500g;Insumos Médicos;Gasas y Vendas;Genérico;14.28;7.77
+35;Algodón 500g;Sin Categoría;Gasas y Vendas;Genérico;14.28;7.77
 36;Enalapril 10mg;Medicamentos;Analgésicos;MediFarma;17.47;10.94
 37;Jabón en Barra Glicerina;Cuidado Personal;Higiene Femenina;NovaSalud;14.83;9.11
 38;Protector Solar SPF50;Dermocosmética;Protección Solar;BioSana;72.81;49.84
 39;Multivitamínico Adultos;Suplementos y Vitaminas;Multivitamínicos;MediFarma;30.36;19.93
 40;Pañales Talla G x26;Cuidado del Bebé;Accesorios Bebé;PharmaPlus;26.64;13.28
 41;Nebulizador Portátil;Equipos Médicos;Nebulizadores;MediFarma;260.31;153.5
-42;Guantes de Látex x100;Insumos Médicos;Gasas y Vendas;PharmaPlus;17.16;7.81
+42;Guantes de Latex x100;Insumos Médicos;Gasas y Vendas;PharmaPlus;17.16;7.81
 43;Clorfenamina 4mg;Medicamentos;Analgésicos;Genérico;13.63;9.37
-44;Talco Corporal;Cuidado Personal;Desodorantes;Genérico;11.93;5.81
+44;Talco Corporal;Sin Categoría;Desodorantes;Genérico;11.93;5.81
 45;Serum Vitamina C;Dermocosmética;Cuidado Capilar;FarmaVida;89.19;57.77
 46;Magnesio Quelado;Suplementos y Vitaminas;Multivitamínicos;SaludTotal Labs;89.62;59.04
 47;Pañales Talla M x30;Cuidado del Bebé;Accesorios Bebé;DermaPro;24.1;12.96
 48;Nebulizador Portátil;Equipos Médicos;Tensiómetros;SaludTotal Labs;237.79;108.15
 49;Alcohol Medicinal 70° 250ml;Insumos Médicos;Mascarillas;MediFarma;11.19;7.52
-50;Omeprazol 20mg;Medicamentos;Gastrointestinales;VitalCare;53.31;34.3
+50;omeprazol 20mg;Medicamentos;Gastrointestinales;VitalCare;53.31;34.3
 51;Gel de Ducha Aloe Vera;Cuidado Personal;Higiene Corporal;NovaSalud;30.13;12.98
 52;Crema Antiarrugas;Dermocosmética;Antiedad;BienestarLab;117.09;52.07
 53;Magnesio Quelado;Suplementos y Vitaminas;Multivitamínicos;FarmaVida;86.38;44.75
 54;Aceite Corporal para Bebé;Cuidado del Bebé;Fórmulas Infantiles;DermaPro;59.09;41.27
 55;Tiras Reactivas de Glucosa;Equipos Médicos;Glucómetros;BioSana;180.25;101.93
 56;Mascarillas Quirúrgicas x50;Insumos Médicos;Mascarillas;FarmaVida;29.06;18.27
-57;Atorvastatina 20mg;Medicamentos;Antialérgicos;FarmaVida;23.89;11.39
+57;atorvastatina 20mg;Medicamentos;Antialérgicos;FarmaVida;23.89;11.39
 58;Jabón Líquido Avena;Cuidado Personal;Higiene Femenina;MediFarma;23.53;12.88
-59;Loción Corporal Hidratante;Dermocosmética;Cuidado Facial;PharmaPlus;43.06;17.57
+59;loción corporal hidratante;Dermocosmética;Cuidado Facial;PharmaPlus;43.06;17.57
 60;Omega 3 1000mg;Suplementos y Vitaminas;Multivitamínicos;PharmaPlus;87.02;49.57
-61;Shampoo para Bebé;Cuidado del Bebé;Pañales;MediFarma;52.42;28.95
+61;SHAMPOO PARA BEBÉ;Cuidado del Bebé;Pañales;MediFarma;52.42;28.95
 62;Glucómetro Digital;Equipos Médicos;Termómetros;NovaSalud;208.76;98.0
-63;Mascarillas Quirúrgicas x50;Insumos Médicos;Gasas y Vendas;VitalCare;35.57;16.92
+63;mascarillas quirúrgicas x50;Insumos Médicos;Gasas y Vendas;VitalCare;35.57;16.92
 64;Enalapril 10mg;Medicamentos;Antialérgicos;VitalCare;35.62;14.46
-65;Enjuague Bucal Menta;Cuidado Personal;Desodorantes;SaludTotal Labs;13.67;7.58
+65;Enjuague Bucal Menta;Sin Categoría;Desodorantes;SaludTotal Labs;13.67;7.58
 66;Contorno de Ojos;Dermocosmética;Cuidado Facial;CardioSalud;122.66;60.25
 67;Magnesio Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;BioSana;62.28;25.1
 68;Crema Antipañalitis;Cuidado del Bebé;Toallitas Húmedas;Genérico;30.74;18.54
 69;Termómetro Digital;Equipos Médicos;Glucómetros;DermaPro;251.82;149.12
 70;Guantes de Látex x100;Insumos Médicos;Mascarillas;SaludTotal Labs;17.95;11.19
-71;Metformina 850mg;Medicamentos;Antialérgicos;DermaPro;38.79;24.89
+71;Metformina 850mg;Sin Categoría;Antialérgicos;DermaPro;38.79;24.89
 72;Talco Corporal;Cuidado Personal;Desodorantes;NovaSalud;16.17;9.5
 73;Loción Corporal Hidratante;Dermocosmética;Cuidado Facial;PharmaPlus;52.74;34.46
-74;Colágeno Hidrolizado;Suplementos y Vitaminas;Vitamina C;CardioSalud;83.13;51.95
+74;colágeno hidrolizado;Suplementos y Vitaminas;Vitamina C;CardioSalud;83.13;51.95
 75;Shampoo para Bebé;Cuidado del Bebé;Toallitas Húmedas;PharmaPlus;49.36;29.71
 76;Pulsioxímetro Digital;Equipos Médicos;Glucómetros;VitalCare;170.9;76.46
 77;Alcohol Medicinal 70° 250ml;Insumos Médicos;Gasas y Vendas;NovaSalud;26.22;12.64
 78;Salbutamol Inhalador;Medicamentos;Antialérgicos;CardioSalud;21.41;9.88
 79;Gel de Ducha Aloe Vera;Cuidado Personal;Higiene Femenina;CardioSalud;6.82;4.72
-80;Loción Corporal Hidratante;Dermocosmética;Protección Solar;DermaPro;94.18;64.28
+80;LOCIÓN CORPORAL HIDRATANTE;Dermocosmética;Protección Solar;DermaPro;94.18;64.28
 81;Multivitamínico Adultos;Suplementos y Vitaminas;Vitamina C;BioSana;30.38;20.41
 82;Aceite Corporal para Bebé;Cuidado del Bebé;Pañales;VitalCare;57.15;31.15
-83;Pulsioxímetro Digital;Equipos Médicos;Glucómetros;PharmaPlus;260.91;178.9
-84;Esparadrapo Hipoalergénico;Insumos Médicos;Guantes;NovaSalud;30.8;21.43
+83;Pulsioximetro Digital;Equipos Médicos;Glucómetros;PharmaPlus;260.91;178.9
+84;ESPARADRAPO HIPOALERGÉNICO;Insumos Médicos;Guantes;NovaSalud;30.8;21.43
 85;Omeprazol 20mg;Medicamentos;Antiinflamatorios;MediFarma;20.75;8.43
 86;Talco Corporal;Cuidado Personal;Higiene Corporal;CardioSalud;31.48;14.42
 87;Protector Solar SPF50;Dermocosmética;Antiedad;VitalCare;60.83;31.34
 88;Complejo B;Suplementos y Vitaminas;Multivitamínicos;BioSana;32.18;22.38
 89;Pañales Talla G x26;Cuidado del Bebé;Fórmulas Infantiles;MediFarma;49.53;24.51
 90;Tensiómetro Digital de Brazo;Equipos Médicos;Glucómetros;MediFarma;306.18;155.87
-91;Esparadrapo Hipoalergénico;Insumos Médicos;Gasas y Vendas;BioSana;23.79;15.74
+91;Esparadrapo Hipoalergénico;Sin Categoría;Gasas y Vendas;BioSana;23.79;15.74
 92;Azitromicina 500mg;Medicamentos;Antialérgicos;VitalCare;38.68;17.56
 93;Desodorante Roll-On;Cuidado Personal;Desodorantes;Genérico;11.05;7.51
 94;Crema Facial Hidratante;Dermocosmética;Cuidado Capilar;NovaSalud;86.1;51.58
 95;Magnesio Quelado;Suplementos y Vitaminas;Vitamina C;CardioSalud;67.94;40.62
-96;Pañales Talla M x30;Cuidado del Bebé;Fórmulas Infantiles;SaludTotal Labs;17.1;8.4
+96;Pañales Talla M x30;Sin Categoría;Fórmulas Infantiles;SaludTotal Labs;17.1;8.4
 97;Nebulizador Portátil;Equipos Médicos;Termómetros;BienestarLab;262.57;120.51
 98;Alcohol Medicinal 70° 250ml;Insumos Médicos;Mascarillas;CardioSalud;18.09;9.58
 99;Enalapril 10mg;Medicamentos;Antibióticos;NovaSalud;26.52;15.6
 100;Protectores Diarios;Cuidado Personal;Higiene Femenina;SaludTotal Labs;37.51;16.6
-101;Loción Corporal Hidratante;Dermocosmética;Protección Solar;SaludTotal Labs;101.77;68.09
-102;Multivitamínico Adultos;Suplementos y Vitaminas;Multivitamínicos;FarmaVida;80.25;48.47
+101;Locion Corporal Hidratante;Dermocosmética;Protección Solar;SaludTotal Labs;101.77;68.09
+102;Multivitamínico Adultos;Sin Categoría;Multivitamínicos;FarmaVida;80.25;48.47
 103;Toallitas Húmedas x80;Cuidado del Bebé;Fórmulas Infantiles;MediFarma;12.12;5.0
 104;Glucómetro Digital;Equipos Médicos;Nebulizadores;DermaPro;125.37;52.03
 105;Alcohol Medicinal 70° 250ml;Insumos Médicos;Gasas y Vendas;NovaSalud;20.73;13.99
 106;Amoxicilina 500mg;Medicamentos;Antialérgicos;DermaPro;34.56;21.99
 107;Toallas Higiénicas Nocturnas;Cuidado Personal;Higiene Corporal;DermaPro;8.08;3.4
-108;Loción Corporal Hidratante;Dermocosmética;Cuidado Facial;CardioSalud;65.78;28.53
+108;Loción Corporal Hidratante;Sin Categoría;Cuidado Facial;CardioSalud;65.78;28.53
 109;Vitamina C 1000mg;Suplementos y Vitaminas;Omega 3;DermaPro;74.73;38.45
 110;Shampoo para Bebé;Cuidado del Bebé;Pañales;SaludTotal Labs;40.81;25.84
 111;Tensiómetro Digital de Brazo;Equipos Médicos;Termómetros;Genérico;253.06;170.97
 112;Vendas Elásticas;Insumos Médicos;Mascarillas;NovaSalud;24.09;10.63
 113;Enalapril 10mg;Medicamentos;Antiinflamatorios;SaludTotal Labs;59.2;28.06
 114;Talco Corporal;Cuidado Personal;Higiene Bucal;NovaSalud;31.98;17.03
-115;Mascarilla Facial Hidratante;Dermocosmética;Cuidado Capilar;CardioSalud;52.98;30.18
+115;mascarilla facial hidratante;Dermocosmética;Cuidado Capilar;CardioSalud;52.98;30.18
 116;Vitamina C 1000mg;Suplementos y Vitaminas;Multivitamínicos;CardioSalud;72.98;34.29
 117;Pañales Talla M x30;Cuidado del Bebé;Fórmulas Infantiles;SaludTotal Labs;65.45;34.36
 118;Termómetro Digital;Equipos Médicos;Tensiómetros;MediFarma;47.35;25.64
-119;Vendas Elásticas;Insumos Médicos;Mascarillas;CardioSalud;2.46;1.01
+119;Vendas Elásticas;Sin Categoría;Mascarillas;CardioSalud;2.46;1.01
 120;Cetirizina 10mg;Medicamentos;Antialérgicos;VitalCare;5.47;2.31
 121;Enjuague Bucal Menta;Cuidado Personal;Desodorantes;FarmaVida;23.94;9.8
 122;Contorno de Ojos;Dermocosmética;Cuidado Facial;MediFarma;95.01;53.55
 123;Colágeno Hidrolizado;Suplementos y Vitaminas;Multivitamínicos;PharmaPlus;42.66;20.43
-124;Fórmula Infantil Etapa 1;Cuidado del Bebé;Fórmulas Infantiles;CardioSalud;81.18;35.14
+124;fórmula infantil etapa 1;Cuidado del Bebé;Fórmulas Infantiles;CardioSalud;81.18;35.14
 125;Glucómetro Digital;Equipos Médicos;Glucómetros;VitalCare;111.54;71.78
 126;Esparadrapo Hipoalergénico;Insumos Médicos;Guantes;CardioSalud;10.72;6.65
-127;Clorfenamina 4mg;Medicamentos;Antialérgicos;FarmaVida;59.21;29.05
+127;CLORFENAMINA 4MG;Sin Categoría;Antialérgicos;FarmaVida;59.21;29.05
 128;Tampones Regular;Cuidado Personal;Higiene Corporal;MediFarma;18.8;9.76
-129;Serum Vitamina C;Dermocosmética;Antiedad;PharmaPlus;124.23;59.91
+129;serum vitamina c;Dermocosmética;Antiedad;PharmaPlus;124.23;59.91
 130;Zinc 50mg;Suplementos y Vitaminas;Omega 3;BioSana;17.03;7.44
-131;Fórmula Infantil Etapa 2;Cuidado del Bebé;Fórmulas Infantiles;VitalCare;10.03;5.89
+131;Formula Infantil Etapa 2;Cuidado del Bebé;Fórmulas Infantiles;VitalCare;10.03;5.89
 132;Tensiómetro Digital de Brazo;Equipos Médicos;Termómetros;MediFarma;144.32;68.57
-133;Vendas Elásticas;Insumos Médicos;Mascarillas;Genérico;34.0;15.25
+133;VENDAS ELÁSTICAS;Insumos Médicos;Mascarillas;Genérico;34.0;15.25
 134;Clorfenamina 4mg;Medicamentos;Antigripales;NovaSalud;10.63;7.4
 135;Cepillo Dental Suave;Cuidado Personal;Higiene Femenina;MediFarma;23.24;11.04
 136;Acondicionador Reparador;Dermocosmética;Cuidado Capilar;SaludTotal Labs;103.43;43.09
 137;Omega 3 1000mg;Suplementos y Vitaminas;Vitamina C;MediFarma;30.49;19.47
 138;Toallitas Húmedas x80;Cuidado del Bebé;Pañales;FarmaVida;25.61;12.77
-139;Tensiómetro Digital de Brazo;Equipos Médicos;Glucómetros;BienestarLab;27.32;15.04
+139;Tensiómetro Digital de Brazo;Sin Categoría;Glucómetros;BienestarLab;27.32;15.04
 140;Vendas Elásticas;Insumos Médicos;Guantes;NovaSalud;21.77;9.67
 141;Ácido Acetilsalicílico 100mg;Medicamentos;Antiinflamatorios;VitalCare;8.04;3.72
 142;Toallas Higiénicas Nocturnas;Cuidado Personal;Higiene Corporal;VitalCare;26.33;12.87
@@ -157,14 +157,14 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 156;Desodorante en Barra;Cuidado Personal;Higiene Bucal;DermaPro;7.32;4.07
 157;Limpiador Facial Espumoso;Dermocosmética;Cuidado Facial;Genérico;120.9;82.41
 158;Complejo B;Suplementos y Vitaminas;Vitamina C;MediFarma;17.18;8.95
-159;Crema Antipañalitis;Cuidado del Bebé;Accesorios Bebé;BienestarLab;45.31;23.31
+159;CREMA ANTIPAÑALITIS;Cuidado del Bebé;Accesorios Bebé;BienestarLab;45.31;23.31
 160;Tiras Reactivas de Glucosa;Equipos Médicos;Nebulizadores;BienestarLab;257.77;175.62
-161;Esparadrapo Hipoalergénico;Insumos Médicos;Alcohol y Antisépticos;NovaSalud;29.11;12.56
+161;esparadrapo hipoalergénico;Insumos Médicos;Alcohol y Antisépticos;NovaSalud;29.11;12.56
 162;Azitromicina 500mg;Medicamentos;Antiinflamatorios;BioSana;28.5;15.4
 163;Tampones Regular;Cuidado Personal;Higiene Femenina;SaludTotal Labs;17.58;12.2
 164;Protector Solar SPF50;Dermocosmética;Protección Solar;SaludTotal Labs;25.26;13.63
 165;Multivitamínico Adultos;Suplementos y Vitaminas;Multivitamínicos;FarmaVida;50.29;29.85
-166;Fórmula Infantil Etapa 2;Cuidado del Bebé;Pañales;BioSana;14.69;7.92
+166;FÓRMULA INFANTIL ETAPA 2;Cuidado del Bebé;Pañales;BioSana;14.69;7.92
 167;Termómetro Digital;Equipos Médicos;Tensiómetros;NovaSalud;144.99;86.82
 168;Guantes de Látex x100;Insumos Médicos;Gasas y Vendas;BioSana;11.29;6.22
 169;Omeprazol 20mg;Medicamentos;Antiinflamatorios;DermaPro;16.52;11.06
@@ -176,17 +176,17 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 175;Algodón 500g;Insumos Médicos;Guantes;Genérico;23.72;14.61
 176;Omeprazol 20mg;Medicamentos;Gastrointestinales;PharmaPlus;58.18;28.32
 177;Jabón Líquido Avena;Cuidado Personal;Desodorantes;FarmaVida;12.73;8.47
-178;Crema Antiarrugas;Dermocosmética;Cuidado Facial;VitalCare;73.2;30.77
+178;crema antiarrugas;Dermocosmética;Cuidado Facial;VitalCare;73.2;30.77
 179;Omega 3 1000mg;Suplementos y Vitaminas;Multivitamínicos;MediFarma;41.38;23.33
 180;Crema Antipañalitis;Cuidado del Bebé;Pañales;CardioSalud;84.23;50.82
 181;Glucómetro Digital;Equipos Médicos;Tensiómetros;MediFarma;65.81;46.01
 182;Alcohol en Gel 500ml;Insumos Médicos;Mascarillas;BienestarLab;25.03;11.56
 183;Enalapril 10mg;Medicamentos;Cardiovascular;VitalCare;50.35;20.67
 184;Enjuague Bucal Menta;Cuidado Personal;Higiene Bucal;BienestarLab;39.67;25.33
-185;Serum Vitamina C;Dermocosmética;Cuidado Capilar;MediFarma;100.23;52.89
-186;Magnesio Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;Genérico;77.6;49.63
-187;Toallitas Húmedas x80;Cuidado del Bebé;Toallitas Húmedas;VitalCare;22.35;14.06
-188;Tensiómetro Digital de Brazo;Equipos Médicos;Tensiómetros;FarmaVida;124.34;65.09
+185;SERUM VITAMINA C;Dermocosmética;Cuidado Capilar;MediFarma;100.23;52.89
+186;magnesio quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;Genérico;77.6;49.63
+187;TOALLITAS HÚMEDAS X80;Cuidado del Bebé;Toallitas Húmedas;VitalCare;22.35;14.06
+188;Tensiómetro Digital de Brazo;Sin Categoría;Tensiómetros;FarmaVida;124.34;65.09
 189;Esparadrapo Hipoalergénico;Insumos Médicos;Guantes;BienestarLab;18.69;10.97
 190;Naproxeno 250mg;Medicamentos;Antibióticos;MediFarma;45.61;25.05
 191;Jabón Líquido Avena;Cuidado Personal;Higiene Corporal;MediFarma;18.09;9.78
@@ -194,15 +194,15 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 193;Omega 3 1000mg;Suplementos y Vitaminas;Vitamina C;SaludTotal Labs;72.1;35.46
 194;Crema Antipañalitis;Cuidado del Bebé;Accesorios Bebé;MediFarma;49.08;21.19
 195;Pulsioxímetro Digital;Equipos Médicos;Glucómetros;PharmaPlus;268.29;130.9
-196;Algodón 500g;Insumos Médicos;Alcohol y Antisépticos;MediFarma;3.27;1.73
+196;algodón 500g;Insumos Médicos;Alcohol y Antisépticos;MediFarma;3.27;1.73
 197;Omeprazol 20mg;Medicamentos;Antigripales;Genérico;46.01;30.79
 198;Pasta Dental Triple Acción;Cuidado Personal;Higiene Corporal;BienestarLab;25.74;14.14
 199;Acondicionador Reparador;Dermocosmética;Antiedad;FarmaVida;98.06;47.46
 200;Omega 3 1000mg;Suplementos y Vitaminas;Omega 3;NovaSalud;58.07;28.17
-201;Fórmula Infantil Etapa 2;Cuidado del Bebé;Fórmulas Infantiles;FarmaVida;21.98;9.4
+201;fórmula infantil etapa 2;Cuidado del Bebé;Fórmulas Infantiles;FarmaVida;21.98;9.4
 202;Tiras Reactivas de Glucosa;Equipos Médicos;Tensiómetros;BienestarLab;159.79;98.05
 203;Alcohol Medicinal 70° 250ml;Insumos Médicos;Alcohol y Antisépticos;CardioSalud;24.28;13.31
-204;Paracetamol 500mg;Medicamentos;Analgésicos;BienestarLab;52.71;22.16
+204;Paracetamol 500mg;Sin Categoría;Analgésicos;BienestarLab;52.71;22.16
 205;Pasta Dental Triple Acción;Cuidado Personal;Desodorantes;VitalCare;37.21;18.15
 206;Protector Solar SPF50;Dermocosmética;Cuidado Facial;CardioSalud;22.93;15.52
 207;Magnesio Quelado;Suplementos y Vitaminas;Vitamina C;DermaPro;88.67;50.08
@@ -226,7 +226,7 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 225;Losartán 50mg;Medicamentos;Cardiovascular;MediFarma;34.45;21.49
 226;Desodorante en Barra;Cuidado Personal;Higiene Femenina;BienestarLab;7.75;3.57
 227;Serum Vitamina C;Dermocosmética;Cuidado Capilar;MediFarma;79.02;38.23
-228;Magnesio Quelado;Suplementos y Vitaminas;Omega 3;BienestarLab;78.58;32.31
+228;Magnesio Quelado;Sin Categoría;Omega 3;BienestarLab;78.58;32.31
 229;Fórmula Infantil Etapa 2;Cuidado del Bebé;Accesorios Bebé;PharmaPlus;23.78;14.55
 230;Tensiómetro Digital de Brazo;Equipos Médicos;Glucómetros;SaludTotal Labs;228.97;109.73
 231;Alcohol en Gel 500ml;Insumos Médicos;Mascarillas;NovaSalud;24.16;13.86
@@ -236,26 +236,26 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 235;Hierro Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;PharmaPlus;76.28;50.78
 236;Aceite Corporal para Bebé;Cuidado del Bebé;Toallitas Húmedas;Genérico;76.88;35.37
 237;Tensiómetro Digital de Brazo;Equipos Médicos;Termómetros;NovaSalud;189.11;90.3
-238;Gasas Estériles;Insumos Médicos;Guantes;DermaPro;11.8;7.77
+238;Gasas Estériles;Sin Categoría;Guantes;DermaPro;11.8;7.77
 239;Dextrometorfano Jarabe;Medicamentos;Antibióticos;FarmaVida;10.54;4.53
-240;Toallas Higiénicas Nocturnas;Cuidado Personal;Higiene Bucal;VitalCare;4.66;1.98
+240;toallas higiénicas nocturnas;Cuidado Personal;Higiene Bucal;VitalCare;4.66;1.98
 241;Mascarilla Facial Hidratante;Dermocosmética;Protección Solar;FarmaVida;72.28;49.14
 242;Zinc 50mg;Suplementos y Vitaminas;Multivitamínicos;PharmaPlus;80.53;51.38
 243;Shampoo para Bebé;Cuidado del Bebé;Toallitas Húmedas;VitalCare;28.3;17.55
 244;Tensiómetro Digital de Brazo;Equipos Médicos;Nebulizadores;DermaPro;183.11;96.68
 245;Guantes de Látex x100;Insumos Médicos;Mascarillas;VitalCare;16.56;9.01
 246;Azitromicina 500mg;Medicamentos;Antigripales;MediFarma;7.72;4.01
-247;Enjuague Bucal Menta;Cuidado Personal;Higiene Bucal;Genérico;14.39;8.54
+247;enjuague bucal menta;Cuidado Personal;Higiene Bucal;Genérico;14.39;8.54
 248;Loción Corporal Hidratante;Dermocosmética;Protección Solar;BienestarLab;80.14;44.65
 249;Magnesio Quelado;Suplementos y Vitaminas;Omega 3;PharmaPlus;21.48;11.92
 250;Fórmula Infantil Etapa 1;Cuidado del Bebé;Toallitas Húmedas;FarmaVida;20.48;9.17
 251;Tiras Reactivas de Glucosa;Equipos Médicos;Termómetros;Genérico;216.96;130.12
 252;Guantes de Látex x100;Insumos Médicos;Guantes;VitalCare;15.09;8.97
-253;Azitromicina 500mg;Medicamentos;Analgésicos;BienestarLab;27.79;17.4
+253;AZITROMICINA 500MG;Medicamentos;Analgésicos;BienestarLab;27.79;17.4
 254;Jabón en Barra Glicerina;Cuidado Personal;Higiene Femenina;VitalCare;4.08;1.67
 255;Crema Facial Hidratante;Dermocosmética;Cuidado Facial;NovaSalud;51.18;23.43
 256;Multivitamínico Adultos;Suplementos y Vitaminas;Multivitamínicos;CardioSalud;68.7;37.35
-257;Shampoo para Bebé;Cuidado del Bebé;Accesorios Bebé;BienestarLab;66.4;33.75
+257;Shampoo para Bebé;Sin Categoría;Accesorios Bebé;BienestarLab;66.4;33.75
 258;Pulsioxímetro Digital;Equipos Médicos;Termómetros;PharmaPlus;230.29;93.46
 259;Mascarillas Quirúrgicas x50;Insumos Médicos;Guantes;Genérico;39.53;16.48
 260;Diclofenaco Sódico 50mg;Medicamentos;Cardiovascular;SaludTotal Labs;59.96;31.97
@@ -278,17 +278,17 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 277;Proteína Whey Vainilla;Suplementos y Vitaminas;Vitamina C;BienestarLab;85.16;44.26
 278;Fórmula Infantil Etapa 2;Cuidado del Bebé;Toallitas Húmedas;BioSana;20.86;8.4
 279;Glucómetro Digital;Equipos Médicos;Nebulizadores;PharmaPlus;220.55;120.46
-280;Alcohol en Gel 500ml;Insumos Médicos;Guantes;BioSana;16.6;11.44
+280;Alcohol en Gel 500ml;Sin Categoría;Guantes;BioSana;16.6;11.44
 281;Amoxicilina 500mg;Medicamentos;Antigripales;BienestarLab;22.96;15.67
-282;Toallas Higiénicas Nocturnas;Cuidado Personal;Higiene Femenina;MediFarma;22.66;11.8
+282;Toallas Higienicas Nocturnas;Cuidado Personal;Higiene Femenina;MediFarma;22.66;11.8
 283;Mascarilla Facial Hidratante;Dermocosmética;Protección Solar;NovaSalud;102.2;50.2
 284;Omega 3 1000mg;Suplementos y Vitaminas;Proteínas y Aminoácidos;NovaSalud;29.08;18.4
 285;Pañales Talla M x30;Cuidado del Bebé;Fórmulas Infantiles;DermaPro;76.91;33.99
-286;Termómetro Digital;Equipos Médicos;Nebulizadores;BienestarLab;107.65;71.17
+286;termómetro digital;Equipos Médicos;Nebulizadores;BienestarLab;107.65;71.17
 287;Alcohol en Gel 500ml;Insumos Médicos;Mascarillas;DermaPro;34.38;23.7
 288;Losartán 50mg;Medicamentos;Cardiovascular;DermaPro;34.4;23.18
-289;Talco Corporal;Cuidado Personal;Desodorantes;PharmaPlus;13.35;6.45
-290;Crema Facial Hidratante;Dermocosmética;Cuidado Facial;PharmaPlus;125.64;83.82
+289;Talco Corporal;Sin Categoría;Desodorantes;PharmaPlus;13.35;6.45
+290;CREMA FACIAL HIDRATANTE;Dermocosmética;Cuidado Facial;PharmaPlus;125.64;83.82
 291;Calcio + Vitamina D;Suplementos y Vitaminas;Proteínas y Aminoácidos;MediFarma;15.23;6.63
 292;Fórmula Infantil Etapa 2;Cuidado del Bebé;Toallitas Húmedas;NovaSalud;71.5;42.59
 293;Nebulizador Portátil;Equipos Médicos;Tensiómetros;MediFarma;309.95;142.82
@@ -296,7 +296,7 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 295;Azitromicina 500mg;Medicamentos;Antialérgicos;DermaPro;56.02;37.44
 296;Cepillo Dental Suave;Cuidado Personal;Higiene Femenina;SaludTotal Labs;35.74;14.71
 297;Serum Vitamina C;Dermocosmética;Protección Solar;SaludTotal Labs;15.59;7.08
-298;Proteína Whey Vainilla;Suplementos y Vitaminas;Multivitamínicos;BioSana;79.53;35.82
+298;proteína whey vainilla;Suplementos y Vitaminas;Multivitamínicos;BioSana;79.53;35.82
 299;Fórmula Infantil Etapa 1;Cuidado del Bebé;Pañales;SaludTotal Labs;22.87;15.43
 300;Termómetro Digital;Equipos Médicos;Nebulizadores;DermaPro;228.5;142.14
 301;Esparadrapo Hipoalergénico;Insumos Médicos;Gasas y Vendas;BienestarLab;33.11;21.9
@@ -304,9 +304,9 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 303;Talco Corporal;Cuidado Personal;Desodorantes;VitalCare;7.69;3.22
 304;Shampoo Anticaspa;Dermocosmética;Antiedad;BioSana;123.94;80.57
 305;Colágeno Hidrolizado;Suplementos y Vitaminas;Proteínas y Aminoácidos;MediFarma;59.48;35.46
-306;Aceite Corporal para Bebé;Cuidado del Bebé;Toallitas Húmedas;Genérico;73.64;29.67
-307;Pulsioxímetro Digital;Equipos Médicos;Nebulizadores;FarmaVida;233.7;121.92
-308;Algodón 500g;Insumos Médicos;Gasas y Vendas;Genérico;33.22;19.55
+306;aceite corporal para bebé;Cuidado del Bebé;Toallitas Húmedas;Genérico;73.64;29.67
+307;Pulsioxímetro Digital;Sin Categoría;Nebulizadores;FarmaVida;233.7;121.92
+308;Algodón 500g;Sin Categoría;Gasas y Vendas;Genérico;33.22;19.55
 309;Azitromicina 500mg;Medicamentos;Antibióticos;CardioSalud;3.06;2.0
 310;Pasta Dental Triple Acción;Cuidado Personal;Higiene Bucal;MediFarma;7.68;3.41
 311;Loción Corporal Hidratante;Dermocosmética;Cuidado Capilar;Genérico;40.39;27.27
@@ -326,30 +326,30 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 325;Crema Antiarrugas;Dermocosmética;Cuidado Facial;Genérico;94.92;41.95
 326;Zinc 50mg;Suplementos y Vitaminas;Vitamina C;BienestarLab;71.56;34.01
 327;Pañales Talla M x30;Cuidado del Bebé;Pañales;DermaPro;51.96;36.09
-328;Tiras Reactivas de Glucosa;Equipos Médicos;Tensiómetros;FarmaVida;134.19;62.7
+328;tiras reactivas de glucosa;Sin Categoría;Tensiómetros;FarmaVida;134.19;62.7
 329;Alcohol Medicinal 70° 250ml;Insumos Médicos;Guantes;MediFarma;21.67;14.6
 330;Paracetamol 500mg;Medicamentos;Antialérgicos;FarmaVida;23.39;14.11
 331;Toallas Higiénicas Nocturnas;Cuidado Personal;Higiene Bucal;CardioSalud;28.82;13.25
 332;Mascarilla Facial Hidratante;Dermocosmética;Cuidado Facial;SaludTotal Labs;92.09;38.17
 333;Omega 3 1000mg;Suplementos y Vitaminas;Multivitamínicos;Genérico;12.68;5.31
-334;Crema Antipañalitis;Cuidado del Bebé;Fórmulas Infantiles;DermaPro;62.6;27.46
+334;CREMA ANTIPAÑALITIS;Cuidado del Bebé;Fórmulas Infantiles;DermaPro;62.6;27.46
 335;Glucómetro Digital;Equipos Médicos;Tensiómetros;FarmaVida;132.02;60.14
 336;Alcohol en Gel 500ml;Insumos Médicos;Alcohol y Antisépticos;FarmaVida;23.01;11.98
 337;Amoxicilina 500mg;Medicamentos;Antiinflamatorios;DermaPro;12.35;7.02
 338;Cepillo Dental Suave;Cuidado Personal;Higiene Bucal;SaludTotal Labs;27.41;15.25
-339;Mascarilla Facial Hidratante;Dermocosmética;Cuidado Capilar;NovaSalud;127.22;76.2
+339;MASCARILLA FACIAL HIDRATANTE;Dermocosmética;Cuidado Capilar;NovaSalud;127.22;76.2
 340;Proteína Whey Vainilla;Suplementos y Vitaminas;Proteínas y Aminoácidos;VitalCare;65.99;36.33
-341;Shampoo para Bebé;Cuidado del Bebé;Toallitas Húmedas;BioSana;58.3;35.0
+341;Shampoo para Bebe;Cuidado del Bebé;Toallitas Húmedas;BioSana;58.3;35.0
 342;Termómetro Digital;Equipos Médicos;Glucómetros;Genérico;234.61;150.18
 343;Gasas Estériles;Insumos Médicos;Alcohol y Antisépticos;PharmaPlus;3.16;1.97
 344;Enalapril 10mg;Medicamentos;Gastrointestinales;VitalCare;44.45;21.21
-345;Enjuague Bucal Menta;Cuidado Personal;Desodorantes;FarmaVida;30.47;14.31
+345;ENJUAGUE BUCAL MENTA;Cuidado Personal;Desodorantes;FarmaVida;30.47;14.31
 346;Limpiador Facial Espumoso;Dermocosmética;Antiedad;BioSana;114.71;60.38
 347;Hierro Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;VitalCare;43.62;22.6
 348;Pañales Talla G x26;Cuidado del Bebé;Fórmulas Infantiles;FarmaVida;40.47;24.97
 349;Tensiómetro Digital de Brazo;Equipos Médicos;Nebulizadores;PharmaPlus;138.52;81.01
 350;Esparadrapo Hipoalergénico;Insumos Médicos;Guantes;VitalCare;29.86;19.72
-351;Atorvastatina 20mg;Medicamentos;Gastrointestinales;SaludTotal Labs;39.05;22.97
+351;ATORVASTATINA 20MG;Medicamentos;Gastrointestinales;SaludTotal Labs;39.05;22.97
 352;Toallas Higiénicas Nocturnas;Cuidado Personal;Higiene Bucal;VitalCare;34.76;19.2
 353;Crema Antiarrugas;Dermocosmética;Cuidado Facial;BienestarLab;81.63;40.91
 354;Colágeno Hidrolizado;Suplementos y Vitaminas;Omega 3;MediFarma;43.24;17.69
@@ -357,14 +357,14 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 356;Glucómetro Digital;Equipos Médicos;Glucómetros;SaludTotal Labs;169.75;106.8
 357;Vendas Elásticas;Insumos Médicos;Alcohol y Antisépticos;CardioSalud;19.05;9.51
 358;Paracetamol 500mg;Medicamentos;Analgésicos;VitalCare;17.18;8.85
-359;Tampones Regular;Cuidado Personal;Higiene Corporal;PharmaPlus;10.03;6.91
-360;Acondicionador Reparador;Dermocosmética;Protección Solar;VitalCare;104.91;51.24
-361;Colágeno Hidrolizado;Suplementos y Vitaminas;Proteínas y Aminoácidos;Genérico;19.51;12.08
-362;Pañales Talla M x30;Cuidado del Bebé;Toallitas Húmedas;VitalCare;80.12;55.14
+359;TAMPONES REGULAR;Cuidado Personal;Higiene Corporal;PharmaPlus;10.03;6.91
+360;Acondicionador Reparador;Sin Categoría;Protección Solar;VitalCare;104.91;51.24
+361;Colágeno Hidrolizado;Sin Categoría;Proteínas y Aminoácidos;Genérico;19.51;12.08
+362;Pañales Talla M x30;Sin Categoría;Toallitas Húmedas;VitalCare;80.12;55.14
 363;Nebulizador Portátil;Equipos Médicos;Nebulizadores;PharmaPlus;79.4;53.47
 364;Mascarillas Quirúrgicas x50;Insumos Médicos;Mascarillas;NovaSalud;3.58;2.35
 365;Salbutamol Inhalador;Medicamentos;Antialérgicos;BienestarLab;42.1;29.25
-366;Jabón en Barra Glicerina;Cuidado Personal;Higiene Corporal;DermaPro;24.88;15.52
+366;Jabon en Barra Glicerina;Cuidado Personal;Higiene Corporal;DermaPro;24.88;15.52
 367;Crema Facial Hidratante;Dermocosmética;Cuidado Capilar;SaludTotal Labs;91.69;60.34
 368;Complejo B;Suplementos y Vitaminas;Proteínas y Aminoácidos;BioSana;27.16;13.52
 369;Fórmula Infantil Etapa 2;Cuidado del Bebé;Toallitas Húmedas;MediFarma;64.27;41.98
@@ -376,18 +376,18 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 375;Vitamina C 1000mg;Suplementos y Vitaminas;Vitamina C;PharmaPlus;37.04;16.3
 376;Aceite Corporal para Bebé;Cuidado del Bebé;Pañales;DermaPro;14.97;9.18
 377;Glucómetro Digital;Equipos Médicos;Nebulizadores;BioSana;153.37;92.31
-378;Alcohol en Gel 500ml;Insumos Médicos;Guantes;PharmaPlus;36.25;15.83
+378;alcohol en gel 500ml;Insumos Médicos;Guantes;PharmaPlus;36.25;15.83
 379;Ranitidina 150mg;Medicamentos;Cardiovascular;Genérico;24.41;14.91
 380;Tampones Regular;Cuidado Personal;Higiene Femenina;VitalCare;15.69;9.26
-381;Acondicionador Reparador;Dermocosmética;Cuidado Capilar;NovaSalud;59.68;33.74
+381;ACONDICIONADOR REPARADOR;Dermocosmética;Cuidado Capilar;NovaSalud;59.68;33.74
 382;Multivitamínico Adultos;Suplementos y Vitaminas;Multivitamínicos;NovaSalud;29.32;19.88
 383;Aceite Corporal para Bebé;Cuidado del Bebé;Fórmulas Infantiles;CardioSalud;66.47;36.55
-384;Tensiómetro Digital de Brazo;Equipos Médicos;Termómetros;BienestarLab;191.3;106.41
+384;Tensiometro Digital de Brazo;Equipos Médicos;Termómetros;BienestarLab;191.3;106.41
 385;Gasas Estériles;Insumos Médicos;Mascarillas;CardioSalud;6.14;4.02
-386;Cetirizina 10mg;Medicamentos;Antialérgicos;FarmaVida;37.65;17.72
-387;Jabón en Barra Glicerina;Cuidado Personal;Higiene Bucal;Genérico;22.76;10.32
+386;CETIRIZINA 10MG;Medicamentos;Antialérgicos;FarmaVida;37.65;17.72
+387;JABÓN EN BARRA GLICERINA;Cuidado Personal;Higiene Bucal;Genérico;22.76;10.32
 388;Loción Corporal Hidratante;Dermocosmética;Cuidado Capilar;VitalCare;118.27;74.15
-389;Omega 3 1000mg;Suplementos y Vitaminas;Omega 3;FarmaVida;89.43;53.17
+389;OMEGA 3 1000MG;Suplementos y Vitaminas;Omega 3;FarmaVida;89.43;53.17
 390;Shampoo para Bebé;Cuidado del Bebé;Toallitas Húmedas;FarmaVida;27.77;17.07
 391;Pulsioxímetro Digital;Equipos Médicos;Nebulizadores;NovaSalud;211.71;142.5
 392;Guantes de Látex x100;Insumos Médicos;Guantes;BioSana;12.36;7.12
@@ -396,14 +396,14 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 395;Shampoo Anticaspa;Dermocosmética;Antiedad;FarmaVida;70.61;32.35
 396;Magnesio Quelado;Suplementos y Vitaminas;Multivitamínicos;CardioSalud;19.55;13.67
 397;Shampoo para Bebé;Cuidado del Bebé;Toallitas Húmedas;VitalCare;76.08;48.05
-398;Tensiómetro Digital de Brazo;Equipos Médicos;Termómetros;BienestarLab;155.64;69.73
+398;TENSIÓMETRO DIGITAL DE BRAZO;Equipos Médicos;Termómetros;BienestarLab;155.64;69.73
 399;Esparadrapo Hipoalergénico;Insumos Médicos;Gasas y Vendas;MediFarma;11.0;5.12
-400;Loratadina 10mg;Medicamentos;Antigripales;SaludTotal Labs;41.05;27.56
+400;LORATADINA 10MG;Medicamentos;Antigripales;SaludTotal Labs;41.05;27.56
 401;Desodorante Roll-On;Cuidado Personal;Desodorantes;MediFarma;19.26;12.6
 402;Serum Vitamina C;Dermocosmética;Protección Solar;BioSana;69.38;37.42
 403;Calcio + Vitamina D;Suplementos y Vitaminas;Vitamina C;NovaSalud;61.6;33.02
 404;Pañales Talla M x30;Cuidado del Bebé;Toallitas Húmedas;DermaPro;46.25;18.67
-405;Pulsioxímetro Digital;Equipos Médicos;Nebulizadores;BioSana;153.43;87.69
+405;Pulsioximetro Digital;Equipos Médicos;Nebulizadores;BioSana;153.43;87.69
 406;Mascarillas Quirúrgicas x50;Insumos Médicos;Alcohol y Antisépticos;MediFarma;2.6;1.55
 407;Loratadina 10mg;Medicamentos;Antiinflamatorios;CardioSalud;22.22;9.52
 408;Pasta Dental Triple Acción;Cuidado Personal;Higiene Corporal;BienestarLab;27.23;14.19
@@ -424,14 +424,14 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 423;Shampoo Anticaspa;Dermocosmética;Cuidado Capilar;SaludTotal Labs;123.37;54.04
 424;Omega 3 1000mg;Suplementos y Vitaminas;Vitamina C;PharmaPlus;52.24;21.02
 425;Fórmula Infantil Etapa 1;Cuidado del Bebé;Pañales;CardioSalud;46.59;27.06
-426;Tensiómetro Digital de Brazo;Equipos Médicos;Tensiómetros;NovaSalud;242.52;131.02
+426;Tensiometro Digital de Brazo;Equipos Médicos;Tensiómetros;NovaSalud;242.52;131.02
 427;Vendas Elásticas;Insumos Médicos;Guantes;NovaSalud;32.02;19.49
-428;Cetirizina 10mg;Medicamentos;Analgésicos;VitalCare;4.3;2.81
+428;cetirizina 10mg;Medicamentos;Analgésicos;VitalCare;4.3;2.81
 429;Jabón en Barra Glicerina;Cuidado Personal;Higiene Femenina;FarmaVida;24.63;10.35
 430;Contorno de Ojos;Dermocosmética;Cuidado Facial;PharmaPlus;51.08;26.46
 431;Colágeno Hidrolizado;Suplementos y Vitaminas;Multivitamínicos;FarmaVida;52.72;30.6
 432;Fórmula Infantil Etapa 2;Cuidado del Bebé;Pañales;VitalCare;17.38;9.67
-433;Termómetro Digital;Equipos Médicos;Glucómetros;FarmaVida;46.39;21.66
+433;termómetro digital;Equipos Médicos;Glucómetros;FarmaVida;46.39;21.66
 434;Esparadrapo Hipoalergénico;Insumos Médicos;Gasas y Vendas;FarmaVida;18.7;12.5
 435;Azitromicina 500mg;Medicamentos;Antiinflamatorios;BioSana;40.06;26.21
 436;Enjuague Bucal Menta;Cuidado Personal;Higiene Femenina;NovaSalud;10.9;6.94
@@ -451,25 +451,25 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 450;Gel de Ducha Aloe Vera;Cuidado Personal;Desodorantes;DermaPro;26.11;11.54
 451;Acondicionador Reparador;Dermocosmética;Cuidado Facial;CardioSalud;117.59;48.61
 452;Magnesio Quelado;Suplementos y Vitaminas;Multivitamínicos;DermaPro;90.14;41.22
-453;Fórmula Infantil Etapa 2;Cuidado del Bebé;Accesorios Bebé;MediFarma;72.75;50.09
-454;Pulsioxímetro Digital;Equipos Médicos;Glucómetros;Genérico;183.5;107.18
+453;FÓRMULA INFANTIL ETAPA 2;Cuidado del Bebé;Accesorios Bebé;MediFarma;72.75;50.09
+454;Pulsioximetro Digital;Equipos Médicos;Glucómetros;Genérico;183.5;107.18
 455;Esparadrapo Hipoalergénico;Insumos Médicos;Guantes;MediFarma;25.33;17.22
 456;Omeprazol 20mg;Medicamentos;Antialérgicos;MediFarma;28.27;19.38
 457;Tampones Regular;Cuidado Personal;Desodorantes;SaludTotal Labs;29.79;20.21
 458;Serum Vitamina C;Dermocosmética;Antiedad;BienestarLab;19.09;10.45
 459;Hierro Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;FarmaVida;39.72;18.57
-460;Toallitas Húmedas x80;Cuidado del Bebé;Fórmulas Infantiles;NovaSalud;21.41;14.36
+460;TOALLITAS HÚMEDAS X80;Cuidado del Bebé;Fórmulas Infantiles;NovaSalud;21.41;14.36
 461;Tiras Reactivas de Glucosa;Equipos Médicos;Tensiómetros;BienestarLab;107.47;74.55
 462;Esparadrapo Hipoalergénico;Insumos Médicos;Gasas y Vendas;MediFarma;13.23;6.21
-463;Clorfenamina 4mg;Medicamentos;Analgésicos;BioSana;41.04;28.6
-464;Pasta Dental Triple Acción;Cuidado Personal;Desodorantes;DermaPro;27.18;14.7
+463;Clorfenamina 4mg;Sin Categoría;Analgésicos;BioSana;41.04;28.6
+464;Pasta Dental Triple Accion;Cuidado Personal;Desodorantes;DermaPro;27.18;14.7
 465;Crema Facial Hidratante;Dermocosmética;Cuidado Facial;CardioSalud;106.85;65.41
 466;Vitamina C 1000mg;Suplementos y Vitaminas;Proteínas y Aminoácidos;PharmaPlus;51.31;21.75
 467;Aceite Corporal para Bebé;Cuidado del Bebé;Accesorios Bebé;BioSana;17.86;10.69
 468;Tensiómetro Digital de Brazo;Equipos Médicos;Glucómetros;SaludTotal Labs;51.35;30.15
-469;Alcohol Medicinal 70° 250ml;Insumos Médicos;Guantes;CardioSalud;25.29;10.55
-470;Ácido Acetilsalicílico 100mg;Medicamentos;Antiinflamatorios;NovaSalud;53.55;27.11
-471;Desodorante Roll-On;Cuidado Personal;Higiene Femenina;SaludTotal Labs;35.65;22.19
+469;alcohol medicinal 70° 250ml;Insumos Médicos;Guantes;CardioSalud;25.29;10.55
+470;Ácido Acetilsalicílico 100mg;Sin Categoría;Antiinflamatorios;NovaSalud;53.55;27.11
+471;desodorante roll-on;Cuidado Personal;Higiene Femenina;SaludTotal Labs;35.65;22.19
 472;Crema Facial Hidratante;Dermocosmética;Cuidado Capilar;VitalCare;101.83;57.21
 473;Magnesio Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;SaludTotal Labs;25.35;17.34
 474;Shampoo para Bebé;Cuidado del Bebé;Accesorios Bebé;PharmaPlus;83.82;35.1
@@ -481,21 +481,21 @@ id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 480;Magnesio Quelado;Suplementos y Vitaminas;Proteínas y Aminoácidos;MediFarma;73.05;31.82
 481;Aceite Corporal para Bebé;Cuidado del Bebé;Accesorios Bebé;NovaSalud;38.92;17.9
 482;Termómetro Digital;Equipos Médicos;Nebulizadores;CardioSalud;264.97;120.68
-483;Alcohol en Gel 500ml;Insumos Médicos;Alcohol y Antisépticos;BioSana;15.5;7.21
-484;Loratadina 10mg;Medicamentos;Gastrointestinales;PharmaPlus;51.34;23.0
+483;ALCOHOL EN GEL 500ML;Insumos Médicos;Alcohol y Antisépticos;BioSana;15.5;7.21
+484;Loratadina 10mg;Sin Categoría;Gastrointestinales;PharmaPlus;51.34;23.0
 485;Jabón Líquido Avena;Cuidado Personal;Desodorantes;DermaPro;38.49;22.69
-486;Serum Vitamina C;Dermocosmética;Cuidado Capilar;SaludTotal Labs;69.09;37.96
+486;serum vitamina c;Dermocosmética;Cuidado Capilar;SaludTotal Labs;69.09;37.96
 487;Complejo B;Suplementos y Vitaminas;Vitamina C;FarmaVida;71.38;30.99
 488;Pañales Talla G x26;Cuidado del Bebé;Fórmulas Infantiles;VitalCare;59.05;41.3
-489;Pulsioxímetro Digital;Equipos Médicos;Nebulizadores;CardioSalud;224.46;133.18
+489;Pulsioxímetro Digital;Sin Categoría;Nebulizadores;CardioSalud;224.46;133.18
 490;Gasas Estériles;Insumos Médicos;Mascarillas;FarmaVida;17.29;7.57
 491;Dextrometorfano Jarabe;Medicamentos;Antialérgicos;NovaSalud;6.7;3.52
-492;Pasta Dental Triple Acción;Cuidado Personal;Higiene Femenina;FarmaVida;5.9;3.27
+492;pasta dental triple acción;Cuidado Personal;Higiene Femenina;FarmaVida;5.9;3.27
 493;Crema Facial Hidratante;Dermocosmética;Cuidado Facial;NovaSalud;46.03;20.83
 494;Omega 3 1000mg;Suplementos y Vitaminas;Multivitamínicos;PharmaPlus;69.11;32.91
 495;Shampoo para Bebé;Cuidado del Bebé;Toallitas Húmedas;VitalCare;68.72;37.44
 496;Pulsioxímetro Digital;Equipos Médicos;Glucómetros;FarmaVida;60.38;28.94
 497;Guantes de Látex x100;Insumos Médicos;Mascarillas;FarmaVida;4.38;2.01
-498;Azitromicina 500mg;Medicamentos;Cardiovascular;DermaPro;56.19;28.5
+498;Azitromicina 500mg;Sin Categoría;Cardiovascular;DermaPro;56.19;28.5
 499;Cepillo Dental Suave;Cuidado Personal;Higiene Corporal;FarmaVida;21.86;14.13
 500;Crema Antiarrugas;Dermocosmética;Cuidado Capilar;Genérico;100.1;41.53

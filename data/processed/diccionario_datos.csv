@@ -1,0 +1,45 @@
+Tabla;Campo;Tipo;Clave;Descripción
+Dim_Cliente;id_cliente;int;PK;Identificador único del cliente
+Dim_Cliente;nombre;str;;Nombre completo del cliente
+Dim_Cliente;sexo;str;;Sexo (M/F)
+Dim_Cliente;fecha_nacimiento;date;;Fecha de nacimiento
+Dim_Cliente;distrito;str;;Distrito de residencia
+Dim_Cliente;fecha_alta;date;;Fecha de alta en el programa
+Dim_Cliente;segmento_programa;str;;Segmento (Oro/Plata/Bronce/Sin Programa)
+Dim_Producto;id_producto;int;PK;Identificador único del producto
+Dim_Producto;nombre;str;;Nombre del producto
+Dim_Producto;categoria;str;;Categoría del producto
+Dim_Producto;subcategoria;str;;Subcategoría
+Dim_Producto;marca;str;;Marca
+Dim_Producto;precio_lista;float;;Precio de lista
+Dim_Producto;costo;float;;Costo unitario
+Dim_Tienda;id_tienda;int;PK;Identificador único de tienda
+Dim_Tienda;nombre;str;;Nombre comercial
+Dim_Tienda;canal;str;;Canal (fisico/online)
+Dim_Tienda;region;str;;Región geográfica
+Dim_Tienda;ciudad;str;;Ciudad
+Dim_Tiempo;fecha;date;PK;Fecha
+Dim_Tiempo;dia;int;;Día del mes (1-31)
+Dim_Tiempo;mes;int;;Mes (1-12)
+Dim_Tiempo;trimestre;int;;Trimestre (1-4)
+Dim_Tiempo;anio;int;;Año
+Dim_Tiempo;dia_semana;str;;Nombre del día de la semana
+Dim_Tiempo;es_feriado;bool;;Indica si es feriado
+Dim_Promocion;id_promocion;int;PK;Identificador único de promoción
+Dim_Promocion;nombre;str;;Nombre de la promoción
+Dim_Promocion;tipo;str;;Tipo de promoción
+Dim_Promocion;descuento_pct;float;;Porcentaje de descuento
+Dim_Promocion;fecha_inicio;date;;Inicio de vigencia
+Dim_Promocion;fecha_fin;date;;Fin de vigencia
+Fact_Ventas;id_venta;int;PK;Identificador único de venta
+Fact_Ventas;fecha;date;FK;Fecha de venta -> Dim_Tiempo
+Fact_Ventas;id_cliente;int;FK;Cliente -> Dim_Cliente
+Fact_Ventas;id_producto;int;FK;Producto -> Dim_Producto
+Fact_Ventas;id_tienda;int;FK;Tienda -> Dim_Tienda
+Fact_Ventas;id_promocion;float;FK;Promoción -> Dim_Promocion (NaN = sin promo)
+Fact_Ventas;cantidad;int;;Cantidad vendida
+Fact_Ventas;precio_unitario;float;;Precio unitario aplicado
+Fact_Ventas;descuento;float;;Monto de descuento en soles
+Fact_Ventas;importe;float;;(cantidad * precio_unitario) - descuento
+Fact_Ventas;costo;float;;cantidad * costo_unitario
+Fact_Ventas;margen;float;;importe - costo
