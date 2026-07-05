@@ -6,6 +6,7 @@ Dim_Cliente;fecha_nacimiento;date;;Fecha de nacimiento
 Dim_Cliente;distrito;str;;Distrito de residencia
 Dim_Cliente;fecha_alta;date;;Fecha de alta en el programa
 Dim_Cliente;segmento_programa;str;;Segmento (Oro/Plata/Bronce/Sin Programa)
+Dim_Cliente;churn;int;;Indica si el cliente abandonó el programa (1) o no (0)
 Dim_Producto;id_producto;int;PK;Identificador único del producto
 Dim_Producto;nombre;str;;Nombre del producto
 Dim_Producto;categoria;str;;Categoría del producto
