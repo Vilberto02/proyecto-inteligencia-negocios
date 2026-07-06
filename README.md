@@ -42,11 +42,11 @@ proyecto-inteligencia-negocios/
 ├── notebooks/
 │   ├── 00_generacion_datos.ipynb    # Generación reproducible de datos sintéticos
 │   ├── 01_datamart_etl.ipynb        # Parte 1: ETL y modelo dimensional
-│   ├── 02_visualizacion.ipynb       # Parte 2: visualizaciones en Python
-│   ├── 03_clasificacion.ipynb       # Parte 3
-│   ├── 04_segmentacion.ipynb        # Parte 4
-│   ├── 05_asociacion.ipynb          # Parte 5
-│   └── 06_regresion.ipynb           # Parte 6
+│   ├── 02_visualizacion.ipynb       # Parte 2: Visualizaciones en Python
+│   ├── 03_clasificacion.ipynb       # Parte 3: Clasificación en BI
+│   ├── 04_segmentacion.ipynb        # Parte 4: Segmentación en BI
+│   ├── 05_asociacion.ipynb          # Parte 5: Asociación en BI
+│   └── 06_regresion.ipynb           # Parte 6: Regresión en BI
 ├── powerbi/
 │   └── AndesMarket.pbix              # Modelo, medidas DAX y tableros
 ├── prompts/
@@ -56,5 +56,6 @@ proyecto-inteligencia-negocios/
 ├── docs/
 │   └── instrucciones_proyecto.pdf      # Guía de instrucciones del proyecto del curso
 ├── README.md                         # Descripción, integrantes, cómo ejecutar
+├── .gitignore                        # No subir archivos a GitHub
 └── requirements.txt                  # Dependencias de Python (versiones)
 ```
