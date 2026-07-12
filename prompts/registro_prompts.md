@@ -6,6 +6,8 @@
 | ------ | ------------------------------------------------- | ---------------------- | ------------------------------------- | -------------------------------------------- |
 | 1      | Diseñar el esquema dimensional del caso           | Asistente IA           | Borrador del modelo estrella revisado | Se ajustó el grano y se añadió Dim_Promocion |
 | 2      | Generar datos sintéticos con problemas de calidad | Asistente IA + Python  | Script de generación reproducible     | Se calibraron volúmenes y % de nulos         |
+| 3      | ETL y construcción del datamart analítico         | Asistente IA + Python  | Notebook 01_datamart_etl.ipynb        | Se ajustó fórmula de importe                  |
+| 4      | Notebook de pronóstico de ventas diarias          | Asistente IA + Python  | Notebook 06_regresion.ipynb           | Permutation importance, corrección discusión 6.4 |
 
 ### Registro de prompts
 
