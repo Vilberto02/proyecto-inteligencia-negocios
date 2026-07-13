@@ -48,11 +48,17 @@ proyecto-inteligencia-negocios/
 │   ├── 05_asociacion.ipynb          # Parte 5: Asociación en BI
 │   └── 06_regresion.ipynb           # Parte 6: Regresión en BI
 ├── powerbi/
-│   └── AndesMarket.pbix              # Modelo, medidas DAX y tableros
+│   └── AndesMarket.pbix              # Modelo, medidas DAX y tableros. Mantiene el nombre de las instrucciones.
 ├── prompts/
-│   └── registro_prompts.md           # Bitácora de prompts (Anexo A y B)
+│   ├── parte1_datamart_etl.md                # Prompts utilizados para la parte de ETL y modelo dimensional
+│   ├── parte2_prompts_visualizacion.md       # Prompts utilizados para la parte de visualización
+│   ├── parte3_prompts_clasificacion.md       # Prompts utilizados para la parte de clasificación
+│   ├── parte4_segmentacion.md                # Prompts utilizados para la parte de segmentación
+│   ├── parte5_asociacion.md                  # Prompts utilizados para la parte de asociación
+│   ├── parte6_regresion.md                   # Prompts utilizados para la parte de regresión
+│   └── registro_prompts.md                   # Registro de prompts para la generación de datos (Anexo A y B)
 ├── informe/
-│   └── Informe_PG_AndesMarket.pdf     # Informe consolidado
+│   └── Informe_PG_BoticaLosAndes.pdf     # Informe consolidado
 ├── docs/
 │   └── instrucciones_proyecto.pdf      # Guía de instrucciones del proyecto del curso
 ├── README.md                         # Descripción, integrantes, cómo ejecutar
