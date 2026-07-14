@@ -61,6 +61,9 @@ proyecto-inteligencia-negocios/
 │   └── Informe_PG_BoticaLosAndes.pdf     # Informe consolidado
 ├── docs/
 │   └── instrucciones_proyecto.pdf      # Guía de instrucciones del proyecto del curso
+├── exposicion/
+│   ├── orden_participacion.txt         # Orden de participación de los integrantes
+│   └── enlace_video.txt                # Enlace al video de la exposición
 ├── README.md                         # Descripción, integrantes, cómo ejecutar
 ├── .gitignore                        # No subir archivos a GitHub
 └── requirements.txt                  # Dependencias de Python (versiones)
