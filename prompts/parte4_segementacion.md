@@ -11,13 +11,13 @@
 
 ## Prompt 1: Selección de variables de negocio
 
-```text
+```
 Tengo una base de ventas de una botica y tengo las variables base RFM (Recencia, Frecuencia y Monto). Sin embargo, necesito agregar variables específicas del rubro farmacéutico para perfilar mejor mis clientes. ¿Qué otras variables serían apropiadas para incluir en el apartado de segmentación de clientes considerando que tengo un catálogo de productos clasificado en categorías como: Medicamentos,Cosmética,Cuidado Personal,Accesorios y Equipos,Nutrición y Suplementos,Primeros Auxilios,Salud y Bienestar,Cuidado Infantil,Cuidado Oral?
 ```
 
 ## Prompt 2: Optimización y escalado para K-Means
 
-```text
+```
 Estoy a punto de aplicar el algoritmo K-Means sobre las variables RFM (Recencia, Frecuencia y Monto), Afinidad a Promociones y Afinidad a Medicamentos. He notado que los montos están en miles de soles y las afinidades son porcentajes decimales, lo que generaría un desbalance en la distancia euclidiana. ¿Cuál sería la mejor práctica de escalado en Scikit-Learn antes de entrenar el modelo y cómo genero el Método del Codo y el Coeficiente de Silueta evaluando k del 2 al 10?
 ```
 

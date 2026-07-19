@@ -10,7 +10,7 @@
 
 ## Prompt 1: Transformación de tickets (One-Hot Encoding)
 
-```text
+```
 Necesito construir las reglas de asociación del negocio de una botica, así que debo de utilizar el algoritmo A priori para ello, por lo que deberías de implementar la solución considerando que el dataset tiene columnas como id_venta, id_cliente, fecha, producto y cantidad, necesito transformar el dataset para obtener una matriz de ventas por ticket.
 
 En base a lo anterior, genera el código en python para obtener una matriz de ventas por ticket y aplicarle el algoritmo Apriori, considerando que el dataset sigue un esquema estrella con dimensiones como Cliente, Producto, Promocion, Tiempo, Tienda y Fact_Ventas.
@@ -18,12 +18,12 @@ En base a lo anterior, genera el código en python para obtener una matriz de ve
 
 ## Prompt 2: Ajuste de soporte mínimo para inventarios grandes
 
-```text
+```
 Estoy ejecutando el algoritmo Apriori sobre un catálogo de aproximadamente 500 productos específicos. Al usar min_support = 0.01 (1%) me devuelve un DataFrame vacío. ¿A qué valor matemático me recomendarías bajar el parámetro 'min_support' para poder capturar combinaciones reales asumiendo que tengo 31,000 transacciones?
 ```
 
 ## Prompt 3: Estrategias de venta cruzada (Cross-Selling)
 
-```text
+```
 De mi CSV generado, obtuve reglas interesantes, por ejemplo: la gente que compra 'Shampoo Anticaspa' tiene un Lift de 2.03 para comprar también 'Desodorante Roll-On'. Y los que llevan 'Toallitas Húmedas' llevan 'Talco Corporal'. En base a ello, ¿qué estrategias operativas de marketing podría aplicar en la botica?
 ```
